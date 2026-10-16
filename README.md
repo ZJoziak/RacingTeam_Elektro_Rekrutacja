@@ -13,7 +13,7 @@ Generalnie to całe repozytorium zrobione jest tak, żeby dało się je pobrać 
 
 ## ✨ Uruchomienie
 1. Sklonuj repozytorium na swój komputer.
-2. Pliki pdf i docx otwórz po prostu na komputerze.
+2. Pliki pdf i docx otwórz w wordzie i w przeglądarce.
 3. Uruchom STM32CubeIDE.
 4. Zaimportuj istniejący projekt do workspace.
 5. Sprawdź konfigurację projektu i dostępność wymaganych bibliotek.
