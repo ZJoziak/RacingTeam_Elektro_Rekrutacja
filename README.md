@@ -1,7 +1,9 @@
 <div align="center">
   
-# 🌸 Zadanka rekrutacyjne do PWR Racing Team - dział Elektro 🌸
-୨୧ ─────────────────────────────────────────────────────────────────────────────────── ୨୧
+# 🌸 Zadanka rekrutacyjne do PWR Racing Team 🌸
+୨୧ ────────────────────────────────────────────────────────────── ୨୧
+## Dział Elektro
+୨୧ ─────────────────────────────────────────── ୨୧
 
 </div>
 
