@@ -3,12 +3,12 @@
 # 🌸 Zadanka rekrutacyjne do PWR Racing Team 🌸
 ୨୧ ────────────────────────────────────────────────────────────── ୨୧
 ## Dział Elektro
-୨୧ ─────────────────────────────────────────── ୨୧
 
 </div>
 
 ## 🌼Konstrukcja repo
-Generalnie to całe repozytorium zrobione jest tak, żeby dało się je pobrać i zaimportować do STM32CubeIDE jako projekt. Jest to rozwiązanie do zadania 1(./Core), a do niego dodatkowo znajdziesz opis tego jak podeszłam do zadania w pliku zadanie1. Poza tym w folderze zadanie2 znajdują się 2 pliki jako rozwiązania do podpunktów drugiego zadania.
+Generalnie to całe repozytorium zrobione jest tak, żeby dało się je pobrać i zaimportować do STM32CubeIDE jako projekt. Jest to rozwiązanie do 1. zadania, a do niego dodatkowo znajdziesz opis tego jak podeszłam do zadania w pliku [zadanie 1.](https://github.com/ZJoziak/RacingTeam_Elektro_Rekrutacja/tree/main/opis_rozwiazania_zad1).
+W folderze zadanie2 znajdują się 2 pliki jako rozwiązania do podpunktów drugiego zadania.
 
 
 ## ✨ Uruchomienie
